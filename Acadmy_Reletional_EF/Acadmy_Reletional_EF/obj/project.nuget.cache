@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V3i30afE6xaX5OV71gw7rWjc3MNdUXa1onJAi+webQY63EX11JqJqNqKSLNSr0fi2dD5PDMyMKxkEr4JyzYdog==",
+  "dgSpecHash": "wBk8qB44mRI=",
   "success": true,
   "projectFilePath": "/Users/mostafaalashry397gmail.com/Documents/C#/Acadmy_Reletional_EF/Acadmy_Reletional_EF/Acadmy_Reletional_EF/Acadmy_Reletional_EF.csproj",
   "expectedPackageFiles": [
@@ -78,5 +78,16 @@
     "/Users/mostafaalashry397gmail.com/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/mostafaalashry397gmail.com/.nuget/packages/system.windows.extensions/5.0.0/system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 7.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
