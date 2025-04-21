@@ -56,5 +56,9 @@ namespace Acadmy_Reletional_EF.Data.Configuration
         }
 
     }
+   
+
 }
+
+
 

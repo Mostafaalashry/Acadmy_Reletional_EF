@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{90758F8C-0C49-41F8-97F7-913BCC1A59B4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Acadmy__Reletional__EF FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Acadmy_Reletional_EF/Data/Configuration/SectionConfiguration.cs">
+    <Files>
+      <File FileName="Acadmy_Reletional_EF/Program.cs" Line="1" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Entities/Office.cs" Line="15" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Entities/Instructor.cs" Line="15" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Data/AppDbContext.cs" Line="28" Column="10" />
+      <File FileName="Acadmy_Reletional_EF/appsettings.json" Line="4" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Data/Configurations/InstructorConfiguration.cs" Line="27" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Data/Configurations/OfficeConfiguration.cs" Line="7" Column="38" />
+      <File FileName="Acadmy_Reletional_EF/Entities/Section.cs" Line="21" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Entities/Course.cs" Line="10" Column="23" />
+      <File FileName="Acadmy_Reletional_EF/Data/Configuration/SectionConfiguration.cs" Line="66" Column="2" />
+      <File FileName="Acadmy_Reletional_EF/Data/Configuration/CourseConfiguration.cs" Line="50" Column="10" />
+      <File FileName="Acadmy_Reletional_EF/Entities/Schedule.cs" Line="21" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Entities/SectionSchedule.cs" Line="1" Column="1" />
+      <File FileName="Acadmy_Reletional_EF/Data/Configuration/ScheduleConfiguration.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Acadmy__Reletional__EF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -5,7 +5,7 @@
 namespace AcadmyReletionalEF.Migrations
 {
     /// <inheritdoc />
-    public partial class Reletion : Migration
+    public partial class FFFnn : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
